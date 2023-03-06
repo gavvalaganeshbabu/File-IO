@@ -52,7 +52,7 @@ namespace FIle_IO
 
             Person person = new Person(firstName, lastName, address, city, state, zip, phno, mailid);
             AddPersonToList(person);
-            
+           
 
         }
 
